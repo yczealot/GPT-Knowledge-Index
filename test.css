@@ -1,0 +1,58 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+  background-color: black;
+}
+
+.info{
+	color:orange;
+	text-align: center;
+	font-size:20px;
+	
+}
+
+.image{
+  display: block;
+  margin: auto;
+}
+
+.title{
+	color:#fff;
+	font-size:18px;
+	font-family:"微软雅黑","宋体";
+	vertical-align: bottom;
+	}
+
+.author{
+	color:#410C63;
+	background:yellow;
+	font-size:12px;
+}
+
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  font-size:12px;
+}
+
+a:visited {
+  color:white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color:yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+	color: #CE2023;
+	background-color: transparent;
+	text-decoration: underline;
+	font-size: 12px;
+}
